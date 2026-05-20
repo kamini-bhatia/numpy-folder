@@ -25,6 +25,9 @@ The purpose of this project is to:
 1. Clone the repository
 2. Open the `.ipynb` files in Jupyter Notebook
 3. Run the cells to see the output
+```
+git clone https://github.com/kamini-bhatia/numpy-folder
+```
 
 
 
